@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pflyn
+ *
+ */
+module warGame {
+}
