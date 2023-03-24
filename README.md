@@ -1,1 +1,2 @@
-"# betterWarGame" 
+This is an improved version of our week 6 Java project. This is an automated version of the classic card game war, where two players split a 52 card deck and the go head to head, each flipping a card one at a time and the higher value takes the point. They do this 26 times until there are no cards left, and either one or the other player will have more points or they are tied. 
+A lot of these comments are from when I first started learning Java, learning about how to use objects, all methods and seperating the functions of a program. I hope you enjoy!
